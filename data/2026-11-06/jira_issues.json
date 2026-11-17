@@ -1,0 +1,8584 @@
+{
+ "startAt": 0,
+ "maxResults": 249,
+ "total": 249,
+ "issues": [
+  {
+   "key": "TAMI-1001",
+   "fields": {
+    "summary": "Networking level not set on new intermediary accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-17T08:04:00.000-0500",
+    "resolutiondate": "2026-10-30T08:04:00.000-0500",
+    "duedate": "2026-11-16",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0131"
+   }
+  },
+  {
+   "key": "TAMI-1002",
+   "fields": {
+    "summary": "Advisor account search slower than SLA",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-19T17:37:00.000-0500",
+    "resolutiondate": "2026-07-10T17:37:00.000-0500",
+    "duedate": "2026-07-23",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1003",
+   "fields": {
+    "summary": "Advisor account search slower than SLA",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-07T09:35:00.000-0500",
+    "resolutiondate": "2026-09-21T09:35:00.000-0500",
+    "duedate": "2026-10-11",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1004",
+   "fields": {
+    "summary": "12b-1 trail calculation variance vs legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-19T16:31:00.000-0500",
+    "resolutiondate": "2026-08-20T16:31:00.000-0500",
+    "duedate": "2026-10-06",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0062"
+   }
+  },
+  {
+   "key": "TAMI-1005",
+   "fields": {
+    "summary": "Accessibility defects on firm self-service pages",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Risk Accepted",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-27T12:30:00.000-0500",
+    "resolutiondate": "2026-07-24T12:30:00.000-0500",
+    "duedate": "2026-07-30",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1006",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-07-16T10:47:00.000-0500",
+    "resolutiondate": "2026-08-07T10:47:00.000-0500",
+    "duedate": "2026-08-29",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0060"
+   }
+  },
+  {
+   "key": "TAMI-1007",
+   "fields": {
+    "summary": "Cutoff-time validation fails for late-day intermediary trades",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-02T11:00:00.000-0500",
+    "resolutiondate": "2026-07-29T11:00:00.000-0500",
+    "duedate": "2026-08-02",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0047"
+   }
+  },
+  {
+   "key": "TAMI-1008",
+   "fields": {
+    "summary": "Nightly TA batch still depends on legacy data center job",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-25T16:25:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2027-01-26",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1009",
+   "fields": {
+    "summary": "Duplicate order check misses omnibus sub-accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-05-29T13:39:00.000-0500",
+    "resolutiondate": "2026-06-20T13:39:00.000-0500",
+    "duedate": "2026-07-01",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0022"
+   }
+  },
+  {
+   "key": "TAMI-1010",
+   "fields": {
+    "summary": "Trade confirmation wording differs from legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-09T09:47:00.000-0500",
+    "resolutiondate": "2026-07-23T09:47:00.000-0500",
+    "duedate": "2026-07-15",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0027"
+   }
+  },
+  {
+   "key": "TAMI-1011",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-15T13:49:00.000-0500",
+    "resolutiondate": "2026-09-08T13:49:00.000-0500",
+    "duedate": "2026-08-21",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1012",
+   "fields": {
+    "summary": "Capital gains distribution file late to intermediaries",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-22T17:22:00.000-0500",
+    "resolutiondate": "2026-08-30T17:22:00.000-0500",
+    "duedate": "2026-08-19",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1013",
+   "fields": {
+    "summary": "Rep code mapping mismatch after conversion",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-20T09:58:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-18",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0133"
+   }
+  },
+  {
+   "key": "TAMI-1014",
+   "fields": {
+    "summary": "Duplicate order check misses omnibus sub-accounts",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-05-11T10:37:00.000-0500",
+    "resolutiondate": "2026-07-02T10:37:00.000-0500",
+    "duedate": "2026-08-13",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1015",
+   "fields": {
+    "summary": "12b-1 trail calculation variance vs legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-22T11:01:00.000-0500",
+    "resolutiondate": "2026-08-06T11:01:00.000-0500",
+    "duedate": "2026-08-23",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0034"
+   }
+  },
+  {
+   "key": "TAMI-1016",
+   "fields": {
+    "summary": "Failover test not completed for validation service",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-06-11T16:32:00.000-0500",
+    "resolutiondate": "2026-09-02T16:32:00.000-0500",
+    "duedate": "2026-07-08",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0030"
+   }
+  },
+  {
+   "key": "TAMI-1017",
+   "fields": {
+    "summary": "Intermediary portal shows stale transaction status",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-31T16:03:00.000-0500",
+    "resolutiondate": "2026-06-26T16:03:00.000-0500",
+    "duedate": "2026-08-04",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1018",
+   "fields": {
+    "summary": "Cutoff-time validation fails for late-day intermediary trades",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-03T16:15:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-15",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1019",
+   "fields": {
+    "summary": "Trade confirmation wording differs from legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-07T10:29:00.000-0500",
+    "resolutiondate": "2026-08-09T10:29:00.000-0500",
+    "duedate": "2026-09-09",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0050"
+   }
+  },
+  {
+   "key": "TAMI-1020",
+   "fields": {
+    "summary": "Rep code mapping mismatch after conversion",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-05T08:21:00.000-0500",
+    "resolutiondate": "2026-08-22T08:21:00.000-0500",
+    "duedate": "2026-09-06",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0079"
+   }
+  },
+  {
+   "key": "TAMI-1021",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-19T12:48:00.000-0500",
+    "resolutiondate": "2026-07-16T12:48:00.000-0500",
+    "duedate": "2026-07-18",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0033"
+   }
+  },
+  {
+   "key": "TAMI-1022",
+   "fields": {
+    "summary": "Cloud network latency on trade validation calls",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": null,
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-08T09:51:00.000-0500",
+    "resolutiondate": "2026-06-04T09:51:00.000-0500",
+    "duedate": "2026-06-08",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0004"
+   }
+  },
+  {
+   "key": "TAMI-1023",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-04T09:10:00.000-0500",
+    "resolutiondate": "2026-08-20T09:10:00.000-0500",
+    "duedate": "2026-09-03",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1024",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-09-10T16:12:00.000-0500",
+    "resolutiondate": "2026-10-05T16:12:00.000-0500",
+    "duedate": "2026-10-12",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0108"
+   }
+  },
+  {
+   "key": "TAMI-1025",
+   "fields": {
+    "summary": "Rep code mapping mismatch after conversion",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-06-06T08:04:00.000-0500",
+    "resolutiondate": "2026-06-15T08:04:00.000-0500",
+    "duedate": "2026-06-24",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0025"
+   }
+  },
+  {
+   "key": "TAMI-1026",
+   "fields": {
+    "summary": "Rep code mapping mismatch after conversion",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-27T16:20:00.000-0500",
+    "resolutiondate": "2026-08-27T16:20:00.000-0500",
+    "duedate": "2026-08-28",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0070"
+   }
+  },
+  {
+   "key": "TAMI-1027",
+   "fields": {
+    "summary": "Distribution rate file not validated before release",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-26T10:25:00.000-0500",
+    "resolutiondate": "2026-06-23T10:25:00.000-0500",
+    "duedate": "2026-06-25",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0018"
+   }
+  },
+  {
+   "key": "TAMI-1028",
+   "fields": {
+    "summary": "Distribution rate file not validated before release",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-15T17:41:00.000-0500",
+    "resolutiondate": "2026-10-08T17:41:00.000-0500",
+    "duedate": "2026-10-14",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1029",
+   "fields": {
+    "summary": "Intermediary portal shows stale transaction status",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-08T15:35:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-06",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0083"
+   }
+  },
+  {
+   "key": "TAMI-1030",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-02T15:31:00.000-0500",
+    "resolutiondate": "2026-08-31T15:31:00.000-0500",
+    "duedate": "2026-08-31",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0048"
+   }
+  },
+  {
+   "key": "TAMI-1031",
+   "fields": {
+    "summary": "Accessibility defects on firm self-service pages",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-23T09:44:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-27",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1032",
+   "fields": {
+    "summary": "Nightly TA batch still depends on legacy data center job",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-08-29T09:52:00.000-0500",
+    "resolutiondate": "2026-10-29T09:52:00.000-0500",
+    "duedate": "2026-09-13",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0095"
+   }
+  },
+  {
+   "key": "TAMI-1033",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-09-05T14:01:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-08",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1034",
+   "fields": {
+    "summary": "Networking level not set on new intermediary accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-13T09:59:00.000-0500",
+    "resolutiondate": "2026-10-10T09:59:00.000-0500",
+    "duedate": "2026-10-14",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1035",
+   "fields": {
+    "summary": "Duplicate order check misses omnibus sub-accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-10-20T12:40:00.000-0500",
+    "resolutiondate": "2026-11-03T12:40:00.000-0500",
+    "duedate": "2026-11-09",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0134"
+   }
+  },
+  {
+   "key": "TAMI-1036",
+   "fields": {
+    "summary": "Statement PDF missing fund footnotes",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-16T14:28:00.000-0500",
+    "resolutiondate": "2026-07-11T14:28:00.000-0500",
+    "duedate": "2026-07-12",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1037",
+   "fields": {
+    "summary": "Dividend reinvestment share rounding differs from legacy",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-15T11:19:00.000-0500",
+    "resolutiondate": "2026-10-29T11:19:00.000-0500",
+    "duedate": "2026-11-26",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1038",
+   "fields": {
+    "summary": "Trade confirmation wording differs from legacy",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-06T12:51:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-09-08",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0081"
+   }
+  },
+  {
+   "key": "TAMI-1039",
+   "fields": {
+    "summary": "Intermediary portal shows stale transaction status",
+    "issuetype": {
+     "name": "Action Item"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-28T09:17:00.000-0500",
+    "resolutiondate": "2026-10-18T09:17:00.000-0500",
+    "duedate": "2026-10-29",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1040",
+   "fields": {
+    "summary": "Cloud network latency on trade validation calls",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Risk Accepted",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-31T15:15:00.000-0500",
+    "resolutiondate": "2026-10-08T15:15:00.000-0500",
+    "duedate": "2026-10-28",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0099"
+   }
+  },
+  {
+   "key": "TAMI-1041",
+   "fields": {
+    "summary": "Mainframe extract decommission blocked by downstream consumer",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-20T10:40:00.000-0500",
+    "resolutiondate": "2026-10-05T10:40:00.000-0500",
+    "duedate": "2026-10-07",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1042",
+   "fields": {
+    "summary": "Trade confirmation wording differs from legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-09-02T16:15:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-02",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0102"
+   }
+  },
+  {
+   "key": "TAMI-1043",
+   "fields": {
+    "summary": "Rep code mapping mismatch after conversion",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Pending Validation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-07T08:44:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-09",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0105"
+   }
+  },
+  {
+   "key": "TAMI-1044",
+   "fields": {
+    "summary": "Fund/SERV trade rejects not routed to exception queue",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-07-10T12:06:00.000-0500",
+    "resolutiondate": "2026-09-01T12:06:00.000-0500",
+    "duedate": "2026-09-11",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0055"
+   }
+  },
+  {
+   "key": "TAMI-1045",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Action Item"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-05-19T10:25:00.000-0500",
+    "resolutiondate": "2026-07-15T10:25:00.000-0500",
+    "duedate": "2026-07-01",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0014"
+   }
+  },
+  {
+   "key": "TAMI-1046",
+   "fields": {
+    "summary": "Failover test not completed for validation service",
+    "issuetype": {
+     "name": "Action Item"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-31T08:05:00.000-0500",
+    "resolutiondate": "2026-08-14T08:05:00.000-0500",
+    "duedate": "2026-08-18",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0023"
+   }
+  },
+  {
+   "key": "TAMI-1047",
+   "fields": {
+    "summary": "Nightly TA batch still depends on legacy data center job",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-05T15:01:00.000-0500",
+    "resolutiondate": "2026-09-14T15:01:00.000-0500",
+    "duedate": "2026-10-14",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0080"
+   }
+  },
+  {
+   "key": "TAMI-1048",
+   "fields": {
+    "summary": "Cutoff-time validation fails for late-day intermediary trades",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-03T09:01:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-03",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1049",
+   "fields": {
+    "summary": "Intermediary portal shows stale transaction status",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-24T15:23:00.000-0500",
+    "resolutiondate": "2026-10-01T15:23:00.000-0500",
+    "duedate": "2026-11-05",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1050",
+   "fields": {
+    "summary": "Duplicate order check misses omnibus sub-accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-29T17:57:00.000-0500",
+    "resolutiondate": "2026-09-17T17:57:00.000-0500",
+    "duedate": "2026-09-29",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0097"
+   }
+  },
+  {
+   "key": "TAMI-1051",
+   "fields": {
+    "summary": "Fund/SERV trade rejects not routed to exception queue",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-29T11:20:00.000-0500",
+    "resolutiondate": "2026-10-24T11:20:00.000-0500",
+    "duedate": "2026-11-03",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0118"
+   }
+  },
+  {
+   "key": "TAMI-1052",
+   "fields": {
+    "summary": "Failover test not completed for validation service",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-07-18T11:07:00.000-0500",
+    "resolutiondate": "2026-08-09T11:07:00.000-0500",
+    "duedate": "2026-07-31",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0061"
+   }
+  },
+  {
+   "key": "TAMI-1053",
+   "fields": {
+    "summary": "Record-date eligibility logic gap for pending transfers",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-13T13:21:00.000-0500",
+    "resolutiondate": "2026-07-04T13:21:00.000-0500",
+    "duedate": "2026-07-12",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0010"
+   }
+  },
+  {
+   "key": "TAMI-1054",
+   "fields": {
+    "summary": "Capital gains distribution file late to intermediaries",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-20T14:06:00.000-0500",
+    "resolutiondate": "2026-07-02T14:06:00.000-0500",
+    "duedate": "2026-07-24",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0015"
+   }
+  },
+  {
+   "key": "TAMI-1055",
+   "fields": {
+    "summary": "Cloud network latency on trade validation calls",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-09-26T13:26:00.000-0500",
+    "resolutiondate": "2026-11-03T13:26:00.000-0500",
+    "duedate": "2026-11-25",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0114"
+   }
+  },
+  {
+   "key": "TAMI-1056",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-06-09T14:05:00.000-0500",
+    "resolutiondate": "2026-07-24T14:05:00.000-0500",
+    "duedate": "2026-08-25",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0028"
+   }
+  },
+  {
+   "key": "TAMI-1057",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-27T10:40:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-30",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1058",
+   "fields": {
+    "summary": "Record-date eligibility logic gap for pending transfers",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Pending Validation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-24T08:42:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-05",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0112"
+   }
+  },
+  {
+   "key": "TAMI-1059",
+   "fields": {
+    "summary": "Fund/SERV trade rejects not routed to exception queue",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-08-29T10:51:00.000-0500",
+    "resolutiondate": "2026-10-01T10:51:00.000-0500",
+    "duedate": "2026-10-30",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0096"
+   }
+  },
+  {
+   "key": "TAMI-1060",
+   "fields": {
+    "summary": "Nightly TA batch still depends on legacy data center job",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-11-04T16:05:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-03",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0144"
+   }
+  },
+  {
+   "key": "TAMI-1061",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-07-13T15:09:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-11",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1062",
+   "fields": {
+    "summary": "Cutoff-time validation fails for late-day intermediary trades",
+    "issuetype": {
+     "name": "Action Item"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-08T10:50:00.000-0500",
+    "resolutiondate": "2026-11-05T10:50:00.000-0500",
+    "duedate": "2026-10-09",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1063",
+   "fields": {
+    "summary": "Firm onboarding checklist not enforced in new platform",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-10T14:23:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-12",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1064",
+   "fields": {
+    "summary": "Mainframe extract decommission blocked by downstream consumer",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-23T08:47:00.000-0500",
+    "resolutiondate": "2026-09-25T08:47:00.000-0500",
+    "duedate": "2026-10-24",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1065",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-07-20T09:33:00.000-0500",
+    "resolutiondate": "2026-10-03T09:33:00.000-0500",
+    "duedate": "2026-09-26",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0063"
+   }
+  },
+  {
+   "key": "TAMI-1066",
+   "fields": {
+    "summary": "Legacy file transfer server still in use by two firms",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-08-14T12:00:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-16",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1067",
+   "fields": {
+    "summary": "Trade confirmation wording differs from legacy",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-06-23T10:26:00.000-0500",
+    "resolutiondate": "2026-09-16T10:26:00.000-0500",
+    "duedate": "2026-09-24",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0036"
+   }
+  },
+  {
+   "key": "TAMI-1068",
+   "fields": {
+    "summary": "Rep code mapping mismatch after conversion",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-27T10:14:00.000-0500",
+    "resolutiondate": "2026-09-19T10:14:00.000-0500",
+    "duedate": "2026-10-28",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1069",
+   "fields": {
+    "summary": "Advisor account search slower than SLA",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-28T09:56:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-09-26",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0042"
+   }
+  },
+  {
+   "key": "TAMI-1070",
+   "fields": {
+    "summary": "Capital gains distribution file late to intermediaries",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Pending Validation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-23T11:36:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-19",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1071",
+   "fields": {
+    "summary": "Legacy file transfer server still in use by two firms",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-11T08:08:00.000-0500",
+    "resolutiondate": "2026-06-03T08:08:00.000-0500",
+    "duedate": "2026-07-12",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1072",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-12T08:54:00.000-0500",
+    "resolutiondate": "2026-06-09T08:54:00.000-0500",
+    "duedate": "2026-06-09",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0008"
+   }
+  },
+  {
+   "key": "TAMI-1073",
+   "fields": {
+    "summary": "Nightly TA batch still depends on legacy data center job",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-08-06T13:49:00.000-0500",
+    "resolutiondate": "2026-10-21T13:49:00.000-0500",
+    "duedate": "2026-08-25",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0082"
+   }
+  },
+  {
+   "key": "TAMI-1074",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-15T11:18:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-18",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0110"
+   }
+  },
+  {
+   "key": "TAMI-1075",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Pending Validation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-30T11:31:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-04",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0140"
+   }
+  },
+  {
+   "key": "TAMI-1076",
+   "fields": {
+    "summary": "Failover test not completed for validation service",
+    "issuetype": {
+     "name": "Action Item"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-06-25T12:16:00.000-0500",
+    "resolutiondate": "2026-09-01T12:16:00.000-0500",
+    "duedate": "2026-07-27",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0039"
+   }
+  },
+  {
+   "key": "TAMI-1077",
+   "fields": {
+    "summary": "Networking level not set on new intermediary accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-07-25T10:29:00.000-0500",
+    "resolutiondate": "2026-09-20T10:29:00.000-0500",
+    "duedate": "2026-09-23",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0066"
+   }
+  },
+  {
+   "key": "TAMI-1078",
+   "fields": {
+    "summary": "Capital gains distribution file late to intermediaries",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Open",
+     "statusCategory": {
+      "key": "new"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-11-05T10:15:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2027-01-04",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0145"
+   }
+  },
+  {
+   "key": "TAMI-1079",
+   "fields": {
+    "summary": "Networking level not set on new intermediary accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-14T09:17:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-10",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0127"
+   }
+  },
+  {
+   "key": "TAMI-1080",
+   "fields": {
+    "summary": "12b-1 trail calculation variance vs legacy",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-10-16T14:54:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-14",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0130"
+   }
+  },
+  {
+   "key": "TAMI-1081",
+   "fields": {
+    "summary": "Record-date eligibility logic gap for pending transfers",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-07T14:30:00.000-0500",
+    "resolutiondate": "2026-09-22T14:30:00.000-0500",
+    "duedate": "2026-09-18",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0051"
+   }
+  },
+  {
+   "key": "TAMI-1082",
+   "fields": {
+    "summary": "Mainframe extract decommission blocked by downstream consumer",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-01T09:54:00.000-0500",
+    "resolutiondate": "2026-09-16T09:54:00.000-0500",
+    "duedate": "2026-09-18",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0074"
+   }
+  },
+  {
+   "key": "TAMI-1083",
+   "fields": {
+    "summary": "Fund/SERV trade rejects not routed to exception queue",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-19T08:04:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-08-03",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0013"
+   }
+  },
+  {
+   "key": "TAMI-1084",
+   "fields": {
+    "summary": "Duplicate order check misses omnibus sub-accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-22T15:41:00.000-0500",
+    "resolutiondate": "2026-08-09T15:41:00.000-0500",
+    "duedate": "2026-09-23",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1085",
+   "fields": {
+    "summary": "Duplicate order check misses omnibus sub-accounts",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-07-07T14:43:00.000-0500",
+    "resolutiondate": "2026-08-31T14:43:00.000-0500",
+    "duedate": "2026-09-05",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0052"
+   }
+  },
+  {
+   "key": "TAMI-1086",
+   "fields": {
+    "summary": "Nightly TA batch still depends on legacy data center job",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-18T09:52:00.000-0500",
+    "resolutiondate": "2026-07-06T09:52:00.000-0500",
+    "duedate": "2026-08-18",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0012"
+   }
+  },
+  {
+   "key": "TAMI-1087",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-02T10:49:00.000-0500",
+    "resolutiondate": "2026-07-27T10:49:00.000-0500",
+    "duedate": "2026-08-04",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0046"
+   }
+  },
+  {
+   "key": "TAMI-1088",
+   "fields": {
+    "summary": "Accessibility defects on firm self-service pages",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-24T15:42:00.000-0500",
+    "resolutiondate": "2026-06-19T15:42:00.000-0500",
+    "duedate": "2026-06-23",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0017"
+   }
+  },
+  {
+   "key": "TAMI-1090",
+   "fields": {
+    "summary": "12b-1 trail calculation variance vs legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-27T09:32:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-22",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1091",
+   "fields": {
+    "summary": "Accessibility defects on firm self-service pages",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-15T14:21:00.000-0500",
+    "resolutiondate": "2026-08-23T14:21:00.000-0500",
+    "duedate": "2026-10-14",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0058"
+   }
+  },
+  {
+   "key": "TAMI-1092",
+   "fields": {
+    "summary": "Distribution rate file not validated before release",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-27T11:20:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-29",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0069"
+   }
+  },
+  {
+   "key": "TAMI-1093",
+   "fields": {
+    "summary": "Failover test not completed for validation service",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-08T10:40:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-06",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1094",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-11-01T12:55:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-28",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0141"
+   }
+  },
+  {
+   "key": "TAMI-1095",
+   "fields": {
+    "summary": "Statement PDF missing fund footnotes",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-26T09:00:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-28",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0092"
+   }
+  },
+  {
+   "key": "TAMI-1096",
+   "fields": {
+    "summary": "Failover test not completed for validation service",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-04T10:30:00.000-0500",
+    "resolutiondate": "2026-07-19T10:30:00.000-0500",
+    "duedate": "2026-07-08",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0024"
+   }
+  },
+  {
+   "key": "TAMI-1097",
+   "fields": {
+    "summary": "Fund/SERV trade rejects not routed to exception queue",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-09-08T15:42:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-04",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0106"
+   }
+  },
+  {
+   "key": "TAMI-1098",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-05T17:03:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-08",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0104"
+   }
+  },
+  {
+   "key": "TAMI-1099",
+   "fields": {
+    "summary": "Dealer agreement flag missing on converted firms",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-27T12:50:00.000-0500",
+    "resolutiondate": "2026-10-05T12:50:00.000-0500",
+    "duedate": "2026-11-27",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0094"
+   }
+  },
+  {
+   "key": "TAMI-1100",
+   "fields": {
+    "summary": "Dealer agreement flag missing on converted firms",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-02T15:18:00.000-0500",
+    "resolutiondate": "2026-08-23T15:18:00.000-0500",
+    "duedate": "2026-08-30",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1101",
+   "fields": {
+    "summary": "Failover test not completed for validation service",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-21T15:22:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-20",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1102",
+   "fields": {
+    "summary": "Statement PDF missing fund footnotes",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-08-10T15:34:00.000-0500",
+    "resolutiondate": "2026-08-26T15:34:00.000-0500",
+    "duedate": "2026-09-08",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0085"
+   }
+  },
+  {
+   "key": "TAMI-1103",
+   "fields": {
+    "summary": "Cutoff-time validation fails for late-day intermediary trades",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-08-03T14:49:00.000-0500",
+    "resolutiondate": "2026-10-25T14:49:00.000-0500",
+    "duedate": "2026-09-30",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0077"
+   }
+  },
+  {
+   "key": "TAMI-1104",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-09-25T15:37:00.000-0500",
+    "resolutiondate": "2026-10-24T15:37:00.000-0500",
+    "duedate": "2026-11-29",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0113"
+   }
+  },
+  {
+   "key": "TAMI-1105",
+   "fields": {
+    "summary": "Intermediary portal shows stale transaction status",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-05-20T17:40:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-08-20",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1106",
+   "fields": {
+    "summary": "Cloud network latency on trade validation calls",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-05-13T12:22:00.000-0500",
+    "resolutiondate": "2026-07-15T12:22:00.000-0500",
+    "duedate": "2026-06-13",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0009"
+   }
+  },
+  {
+   "key": "TAMI-1107",
+   "fields": {
+    "summary": "Trade confirmation wording differs from legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-18T09:30:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-19",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0132"
+   }
+  },
+  {
+   "key": "TAMI-1108",
+   "fields": {
+    "summary": "Cutoff-time validation fails for late-day intermediary trades",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-06-29T09:59:00.000-0500",
+    "resolutiondate": "2026-08-11T09:59:00.000-0500",
+    "duedate": "2026-08-16",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0043"
+   }
+  },
+  {
+   "key": "TAMI-1109",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-10T15:55:00.000-0500",
+    "resolutiondate": "2026-08-21T15:55:00.000-0500",
+    "duedate": "2026-08-29",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1110",
+   "fields": {
+    "summary": "Advisor account search slower than SLA",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-27T16:30:00.000-0500",
+    "resolutiondate": "2026-11-01T16:30:00.000-0500",
+    "duedate": "2026-09-27",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1111",
+   "fields": {
+    "summary": "Mainframe extract decommission blocked by downstream consumer",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-14T08:28:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-18",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0126"
+   }
+  },
+  {
+   "key": "TAMI-1112",
+   "fields": {
+    "summary": "Nightly TA batch still depends on legacy data center job",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-13T10:13:00.000-0500",
+    "resolutiondate": "2026-08-26T10:13:00.000-0500",
+    "duedate": "2026-09-12",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1113",
+   "fields": {
+    "summary": "Distribution rate file not validated before release",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-14T15:05:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-14",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0128"
+   }
+  },
+  {
+   "key": "TAMI-1114",
+   "fields": {
+    "summary": "Distribution rate file not validated before release",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-28T08:18:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2027-01-01",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1115",
+   "fields": {
+    "summary": "Fund/SERV trade rejects not routed to exception queue",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-28T15:33:00.000-0500",
+    "resolutiondate": "2026-11-01T15:33:00.000-0500",
+    "duedate": "2026-11-25",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1116",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Pending Validation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-08T16:37:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-08-11",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0026"
+   }
+  },
+  {
+   "key": "TAMI-1117",
+   "fields": {
+    "summary": "Statement PDF missing fund footnotes",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-17T13:21:00.000-0500",
+    "resolutiondate": "2026-07-22T13:21:00.000-0500",
+    "duedate": "2026-08-23",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1118",
+   "fields": {
+    "summary": "Networking level not set on new intermediary accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-21T13:27:00.000-0500",
+    "resolutiondate": "2026-06-13T13:27:00.000-0500",
+    "duedate": "2026-07-19",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0016"
+   }
+  },
+  {
+   "key": "TAMI-1119",
+   "fields": {
+    "summary": "Failover test not completed for validation service",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-24T17:17:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-28",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1120",
+   "fields": {
+    "summary": "Duplicate order check misses omnibus sub-accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-12T12:05:00.000-0500",
+    "resolutiondate": "2026-11-03T12:05:00.000-0500",
+    "duedate": "2026-12-09",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0109"
+   }
+  },
+  {
+   "key": "TAMI-1121",
+   "fields": {
+    "summary": "Advisor account search slower than SLA",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-10-07T17:14:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2027-01-09",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0122"
+   }
+  },
+  {
+   "key": "TAMI-1122",
+   "fields": {
+    "summary": "Dealer agreement flag missing on converted firms",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-14T11:20:00.000-0500",
+    "resolutiondate": "2026-08-21T11:20:00.000-0500",
+    "duedate": "2026-09-13",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0031"
+   }
+  },
+  {
+   "key": "TAMI-1124",
+   "fields": {
+    "summary": "Legacy file transfer server still in use by two firms",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Pending Validation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-11T10:26:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-07",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1125",
+   "fields": {
+    "summary": "12b-1 trail calculation variance vs legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-02T12:22:00.000-0500",
+    "resolutiondate": "2026-09-24T12:22:00.000-0500",
+    "duedate": "2026-10-17",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0076"
+   }
+  },
+  {
+   "key": "TAMI-1126",
+   "fields": {
+    "summary": "Cloud network latency on trade validation calls",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-05T13:13:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-08-31",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1127",
+   "fields": {
+    "summary": "Dividend reinvestment share rounding differs from legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-30T13:02:00.000-0500",
+    "resolutiondate": "2026-09-23T13:02:00.000-0500",
+    "duedate": "2026-10-27",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1128",
+   "fields": {
+    "summary": "Nightly TA batch still depends on legacy data center job",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-24T17:57:00.000-0500",
+    "resolutiondate": "2026-09-27T17:57:00.000-0500",
+    "duedate": "2026-10-25",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1129",
+   "fields": {
+    "summary": "Broker-dealer branch hierarchy not migrated",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-11T14:40:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-10",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1130",
+   "fields": {
+    "summary": "Intermediary portal shows stale transaction status",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Risk Accepted",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [
+     "regulatory",
+     "steerco"
+    ],
+    "created": "2026-08-17T08:50:00.000-0500",
+    "resolutiondate": "2026-09-07T08:50:00.000-0500",
+    "duedate": "2026-09-02",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0087"
+   }
+  },
+  {
+   "key": "TAMI-1131",
+   "fields": {
+    "summary": "Intermediary portal shows stale transaction status",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-23T14:38:00.000-0500",
+    "resolutiondate": "2026-08-05T14:38:00.000-0500",
+    "duedate": "2026-07-21",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0038"
+   }
+  },
+  {
+   "key": "TAMI-1132",
+   "fields": {
+    "summary": "Distribution rate file not validated before release",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-09T11:22:00.000-0500",
+    "resolutiondate": "2026-08-04T11:22:00.000-0500",
+    "duedate": "2026-08-06",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1133",
+   "fields": {
+    "summary": "Cloud network latency on trade validation calls",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-15T15:03:00.000-0500",
+    "resolutiondate": "2026-06-10T15:03:00.000-0500",
+    "duedate": "2026-07-13",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0011"
+   }
+  },
+  {
+   "key": "TAMI-1134",
+   "fields": {
+    "summary": "Capital gains distribution file late to intermediaries",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-30T11:26:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-29",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1135",
+   "fields": {
+    "summary": "Dealer agreement flag missing on converted firms",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-09-22T11:24:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-24",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0111"
+   }
+  },
+  {
+   "key": "TAMI-1136",
+   "fields": {
+    "summary": "Statement PDF missing fund footnotes",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-23T15:29:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-25",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1137",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-09T17:57:00.000-0500",
+    "resolutiondate": "2026-09-19T17:57:00.000-0500",
+    "duedate": "2026-09-07",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1138",
+   "fields": {
+    "summary": "Capital gains distribution file late to intermediaries",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-05-11T17:09:00.000-0500",
+    "resolutiondate": "2026-06-13T17:09:00.000-0500",
+    "duedate": "2026-07-09",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0007"
+   }
+  },
+  {
+   "key": "TAMI-1139",
+   "fields": {
+    "summary": "12b-1 trail calculation variance vs legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-11-03T12:05:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-05",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0143"
+   }
+  },
+  {
+   "key": "TAMI-1140",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-30T11:54:00.000-0500",
+    "resolutiondate": "2026-10-05T11:54:00.000-0500",
+    "duedate": "2026-10-30",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0098"
+   }
+  },
+  {
+   "key": "TAMI-1141",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-09T08:35:00.000-0500",
+    "resolutiondate": "2026-09-02T08:35:00.000-0500",
+    "duedate": "2026-09-08",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0084"
+   }
+  },
+  {
+   "key": "TAMI-1142",
+   "fields": {
+    "summary": "Record-date eligibility logic gap for pending transfers",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-16T08:56:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-15",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1143",
+   "fields": {
+    "summary": "Broker-dealer branch hierarchy not migrated",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-27T15:32:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-31",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1144",
+   "fields": {
+    "summary": "Intermediary portal shows stale transaction status",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-14T11:34:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2027-01-14",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1145",
+   "fields": {
+    "summary": "Trade confirmation wording differs from legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-05T16:44:00.000-0500",
+    "resolutiondate": "2026-07-13T16:44:00.000-0500",
+    "duedate": "2026-07-05",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0003"
+   }
+  },
+  {
+   "key": "TAMI-1146",
+   "fields": {
+    "summary": "Duplicate order check misses omnibus sub-accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-15T11:07:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-10",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1148",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-10T14:53:00.000-0500",
+    "resolutiondate": "2026-06-22T14:53:00.000-0500",
+    "duedate": "2026-07-14",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0006"
+   }
+  },
+  {
+   "key": "TAMI-1149",
+   "fields": {
+    "summary": "Fund/SERV trade rejects not routed to exception queue",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-24T11:23:00.000-0500",
+    "resolutiondate": "2026-10-08T11:23:00.000-0500",
+    "duedate": "2026-10-22",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1150",
+   "fields": {
+    "summary": "Cloud network latency on trade validation calls",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-08T10:19:00.000-0500",
+    "resolutiondate": "2026-10-26T10:19:00.000-0500",
+    "duedate": "2026-11-06",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1151",
+   "fields": {
+    "summary": "Dealer agreement flag missing on converted firms",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [
+     "regulatory",
+     "steerco"
+    ],
+    "created": "2026-10-07T16:27:00.000-0500",
+    "resolutiondate": "2026-10-14T16:27:00.000-0500",
+    "duedate": "2026-10-25",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0121"
+   }
+  },
+  {
+   "key": "TAMI-1152",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-25T13:36:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-29",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1153",
+   "fields": {
+    "summary": "Dealer agreement flag missing on converted firms",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-25T17:26:00.000-0500",
+    "resolutiondate": "2026-11-04T17:26:00.000-0500",
+    "duedate": "2026-11-26",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1154",
+   "fields": {
+    "summary": "Capital gains distribution file late to intermediaries",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-29T14:23:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-26",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1156",
+   "fields": {
+    "summary": "Rep code mapping mismatch after conversion",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-06-22T17:30:00.000-0500",
+    "resolutiondate": "2026-08-10T17:30:00.000-0500",
+    "duedate": "2026-07-25",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0035"
+   }
+  },
+  {
+   "key": "TAMI-1157",
+   "fields": {
+    "summary": "Rep code mapping mismatch after conversion",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-10T11:36:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2027-01-10",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0124"
+   }
+  },
+  {
+   "key": "TAMI-1158",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-29T13:35:00.000-0500",
+    "resolutiondate": "2026-07-05T13:35:00.000-0500",
+    "duedate": "2026-07-28",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1159",
+   "fields": {
+    "summary": "Advisor account search slower than SLA",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-09T10:09:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-09-06",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0053"
+   }
+  },
+  {
+   "key": "TAMI-1160",
+   "fields": {
+    "summary": "Legacy file transfer server still in use by two firms",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-05-13T09:11:00.000-0500",
+    "resolutiondate": "2026-07-05T09:11:00.000-0500",
+    "duedate": "2026-08-15",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1161",
+   "fields": {
+    "summary": "Accessibility defects on firm self-service pages",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-04T15:21:00.000-0500",
+    "resolutiondate": "2026-09-11T15:21:00.000-0500",
+    "duedate": "2026-09-28",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0078"
+   }
+  },
+  {
+   "key": "TAMI-1162",
+   "fields": {
+    "summary": "Accessibility defects on firm self-service pages",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-26T17:33:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-24",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0115"
+   }
+  },
+  {
+   "key": "TAMI-1164",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-22T15:25:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-19",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0136"
+   }
+  },
+  {
+   "key": "TAMI-1165",
+   "fields": {
+    "summary": "Intermediary portal shows stale transaction status",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-18T12:37:00.000-0500",
+    "resolutiondate": "2026-10-06T12:37:00.000-0500",
+    "duedate": "2026-08-25",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0032"
+   }
+  },
+  {
+   "key": "TAMI-1166",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Risk Accepted",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-05T12:55:00.000-0500",
+    "resolutiondate": "2026-10-31T12:55:00.000-0500",
+    "duedate": "2026-12-01",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0119"
+   }
+  },
+  {
+   "key": "TAMI-1167",
+   "fields": {
+    "summary": "Networking level not set on new intermediary accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-07-25T13:55:00.000-0500",
+    "resolutiondate": "2026-09-18T13:55:00.000-0500",
+    "duedate": "2026-09-17",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0067"
+   }
+  },
+  {
+   "key": "TAMI-1168",
+   "fields": {
+    "summary": "Fund/SERV trade rejects not routed to exception queue",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-11-05T13:10:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2027-01-09",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1169",
+   "fields": {
+    "summary": "Cloud network latency on trade validation calls",
+    "issuetype": {
+     "name": "Action Item"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-01T17:16:00.000-0500",
+    "resolutiondate": "2026-09-03T17:16:00.000-0500",
+    "duedate": "2026-09-04",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0044"
+   }
+  },
+  {
+   "key": "TAMI-1170",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-18T13:09:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-16",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1172",
+   "fields": {
+    "summary": "12b-1 trail calculation variance vs legacy",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Pending Validation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [
+     "regulatory",
+     "steerco"
+    ],
+    "created": "2026-10-16T14:43:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-03",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0129"
+   }
+  },
+  {
+   "key": "TAMI-1173",
+   "fields": {
+    "summary": "Duplicate order check misses omnibus sub-accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-26T14:41:00.000-0500",
+    "resolutiondate": "2026-10-19T14:41:00.000-0500",
+    "duedate": "2026-11-06",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1174",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-06-26T13:02:00.000-0500",
+    "resolutiondate": "2026-07-11T13:02:00.000-0500",
+    "duedate": "2026-07-08",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0040"
+   }
+  },
+  {
+   "key": "TAMI-1175",
+   "fields": {
+    "summary": "Dealer agreement flag missing on converted firms",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": null,
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-18T13:41:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-24",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0090"
+   }
+  },
+  {
+   "key": "TAMI-1176",
+   "fields": {
+    "summary": "Firm onboarding checklist not enforced in new platform",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-03T15:08:00.000-0500",
+    "resolutiondate": "2026-08-03T15:08:00.000-0500",
+    "duedate": "2026-09-06",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1177",
+   "fields": {
+    "summary": "Nightly TA batch still depends on legacy data center job",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-30T09:17:00.000-0500",
+    "resolutiondate": "2026-09-01T09:17:00.000-0500",
+    "duedate": "2026-09-25",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1178",
+   "fields": {
+    "summary": "Cutoff-time validation fails for late-day intermediary trades",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-15T16:21:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-09-16",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1179",
+   "fields": {
+    "summary": "Statement PDF missing fund footnotes",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-09T12:44:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-07",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0107"
+   }
+  },
+  {
+   "key": "TAMI-1180",
+   "fields": {
+    "summary": "Accessibility defects on firm self-service pages",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-28T08:30:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-31",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0117"
+   }
+  },
+  {
+   "key": "TAMI-1181",
+   "fields": {
+    "summary": "Trade confirmation wording differs from legacy",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-07T12:16:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-10",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0120"
+   }
+  },
+  {
+   "key": "TAMI-1182",
+   "fields": {
+    "summary": "Rep code mapping mismatch after conversion",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-17T08:20:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-19",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1183",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-26T09:28:00.000-0500",
+    "resolutiondate": "2026-09-22T09:28:00.000-0500",
+    "duedate": "2026-09-24",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0093"
+   }
+  },
+  {
+   "key": "TAMI-1184",
+   "fields": {
+    "summary": "Duplicate order check misses omnibus sub-accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-05-04T17:16:00.000-0500",
+    "resolutiondate": "2026-06-30T17:16:00.000-0500",
+    "duedate": "2026-07-08",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0001"
+   }
+  },
+  {
+   "key": "TAMI-1185",
+   "fields": {
+    "summary": "Duplicate order check misses omnibus sub-accounts",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-17T17:49:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-01",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1186",
+   "fields": {
+    "summary": "Cutoff-time validation fails for late-day intermediary trades",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-11-02T17:23:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2027-01-29",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1187",
+   "fields": {
+    "summary": "Statement PDF missing fund footnotes",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-30T14:26:00.000-0500",
+    "resolutiondate": "2026-10-02T14:26:00.000-0500",
+    "duedate": "2026-11-01",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1188",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-22T13:49:00.000-0500",
+    "resolutiondate": "2026-10-31T13:49:00.000-0500",
+    "duedate": "2026-11-21",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1189",
+   "fields": {
+    "summary": "Dealer agreement flag missing on converted firms",
+    "issuetype": {
+     "name": "Action Item"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-06-24T13:30:00.000-0500",
+    "resolutiondate": "2026-10-24T13:30:00.000-0500",
+    "duedate": "2026-09-21",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1190",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-23T14:16:00.000-0500",
+    "resolutiondate": "2026-09-06T14:16:00.000-0500",
+    "duedate": "2026-09-09",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0064"
+   }
+  },
+  {
+   "key": "TAMI-1191",
+   "fields": {
+    "summary": "Dividend reinvestment share rounding differs from legacy",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-09T13:59:00.000-0500",
+    "resolutiondate": "2026-09-11T13:59:00.000-0500",
+    "duedate": "2026-09-25",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1192",
+   "fields": {
+    "summary": "Dealer agreement flag missing on converted firms",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-25T11:03:00.000-0500",
+    "resolutiondate": "2026-07-30T11:03:00.000-0500",
+    "duedate": "2026-08-23",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1194",
+   "fields": {
+    "summary": "Record-date eligibility logic gap for pending transfers",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-25T14:09:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-23",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1195",
+   "fields": {
+    "summary": "Firm onboarding checklist not enforced in new platform",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-11T11:25:00.000-0500",
+    "resolutiondate": "2026-07-27T11:25:00.000-0500",
+    "duedate": "2026-09-10",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0029"
+   }
+  },
+  {
+   "key": "TAMI-1196",
+   "fields": {
+    "summary": "Record-date eligibility logic gap for pending transfers",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": null,
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-02T09:42:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-06",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0075"
+   }
+  },
+  {
+   "key": "TAMI-1197",
+   "fields": {
+    "summary": "Capital gains distribution file late to intermediaries",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-01T17:59:00.000-0500",
+    "resolutiondate": "2026-10-07T17:59:00.000-0500",
+    "duedate": "2026-09-24",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0045"
+   }
+  },
+  {
+   "key": "TAMI-1199",
+   "fields": {
+    "summary": "Record-date eligibility logic gap for pending transfers",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-05T15:19:00.000-0500",
+    "resolutiondate": "2026-05-22T15:19:00.000-0500",
+    "duedate": "2026-06-02",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0002"
+   }
+  },
+  {
+   "key": "TAMI-1200",
+   "fields": {
+    "summary": "Fund/SERV trade rejects not routed to exception queue",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": null,
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-15T14:35:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-18",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1201",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-10T08:27:00.000-0500",
+    "resolutiondate": "2026-08-01T08:27:00.000-0500",
+    "duedate": "2026-08-07",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0054"
+   }
+  },
+  {
+   "key": "TAMI-1202",
+   "fields": {
+    "summary": "As-of trade correction requires manual repricing",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": null,
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-29T08:13:00.000-0500",
+    "resolutiondate": "2026-07-31T08:13:00.000-0500",
+    "duedate": "2026-08-01",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0021"
+   }
+  },
+  {
+   "key": "TAMI-1204",
+   "fields": {
+    "summary": "Accessibility defects on firm self-service pages",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-11T08:54:00.000-0500",
+    "resolutiondate": "2026-10-30T08:54:00.000-0500",
+    "duedate": "2026-11-12",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0125"
+   }
+  },
+  {
+   "key": "TAMI-1205",
+   "fields": {
+    "summary": "Distribution rate file not validated before release",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-25T17:10:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2027-01-24",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0139"
+   }
+  },
+  {
+   "key": "TAMI-1206",
+   "fields": {
+    "summary": "Failover test not completed for validation service",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-26T08:25:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-28",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1207",
+   "fields": {
+    "summary": "Cloud network latency on trade validation calls",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-17T17:19:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-10-14",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1208",
+   "fields": {
+    "summary": "Broker-dealer branch hierarchy not migrated",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-04T09:13:00.000-0500",
+    "resolutiondate": "2026-08-14T09:13:00.000-0500",
+    "duedate": "2026-09-03",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1209",
+   "fields": {
+    "summary": "Trade confirmation wording differs from legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-10T17:12:00.000-0500",
+    "resolutiondate": "2026-10-10T17:12:00.000-0500",
+    "duedate": "2026-12-08",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1210",
+   "fields": {
+    "summary": "Record-date eligibility logic gap for pending transfers",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-21T14:08:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-22",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1211",
+   "fields": {
+    "summary": "Statement PDF missing fund footnotes",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-08T08:56:00.000-0500",
+    "resolutiondate": "2026-07-23T08:56:00.000-0500",
+    "duedate": "2026-07-19",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1212",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-14T11:18:00.000-0500",
+    "resolutiondate": "2026-09-22T11:18:00.000-0500",
+    "duedate": "2026-10-10",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0057"
+   }
+  },
+  {
+   "key": "TAMI-1213",
+   "fields": {
+    "summary": "Distribution rate file not validated before release",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-08T11:33:00.000-0500",
+    "resolutiondate": "2026-08-31T11:33:00.000-0500",
+    "duedate": "2026-08-22",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1214",
+   "fields": {
+    "summary": "Legacy file transfer server still in use by two firms",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-10-25T12:23:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-22",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0138"
+   }
+  },
+  {
+   "key": "TAMI-1215",
+   "fields": {
+    "summary": "Dividend reinvestment share rounding differs from legacy",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Risk Accepted",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-23T12:25:00.000-0500",
+    "resolutiondate": "2026-08-04T12:25:00.000-0500",
+    "duedate": "2026-07-23",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1216",
+   "fields": {
+    "summary": "Broker-dealer branch hierarchy not migrated",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-05-21T16:06:00.000-0500",
+    "resolutiondate": "2026-09-22T16:06:00.000-0500",
+    "duedate": "2026-08-20",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1217",
+   "fields": {
+    "summary": "Distribution rate file not validated before release",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-14T14:31:00.000-0500",
+    "resolutiondate": "2026-10-08T14:31:00.000-0500",
+    "duedate": "2026-11-11",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0086"
+   }
+  },
+  {
+   "key": "TAMI-1218",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-09-27T11:36:00.000-0500",
+    "resolutiondate": "2026-10-25T11:36:00.000-0500",
+    "duedate": "2026-10-20",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0116"
+   }
+  },
+  {
+   "key": "TAMI-1219",
+   "fields": {
+    "summary": "Distribution rate file not validated before release",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-16T10:41:00.000-0500",
+    "resolutiondate": "2026-09-13T10:41:00.000-0500",
+    "duedate": "2026-09-19",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0059"
+   }
+  },
+  {
+   "key": "TAMI-1220",
+   "fields": {
+    "summary": "12b-1 trail calculation variance vs legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-07-26T11:00:00.000-0500",
+    "resolutiondate": "2026-08-19T11:00:00.000-0500",
+    "duedate": "2026-08-26",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0068"
+   }
+  },
+  {
+   "key": "TAMI-1221",
+   "fields": {
+    "summary": "Trade confirmation wording differs from legacy",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-30T13:33:00.000-0500",
+    "resolutiondate": "2026-08-24T13:33:00.000-0500",
+    "duedate": "2026-09-03",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0073"
+   }
+  },
+  {
+   "key": "TAMI-1222",
+   "fields": {
+    "summary": "Nightly TA batch still depends on legacy data center job",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-26T17:07:00.000-0500",
+    "resolutiondate": "2026-07-17T17:07:00.000-0500",
+    "duedate": "2026-07-25",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0019"
+   }
+  },
+  {
+   "key": "TAMI-1223",
+   "fields": {
+    "summary": "Distribution rate file not validated before release",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": null,
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-28T11:21:00.000-0500",
+    "resolutiondate": "2026-10-09T11:21:00.000-0500",
+    "duedate": "2026-10-27",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1224",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-18T08:58:00.000-0500",
+    "resolutiondate": "2026-08-31T08:58:00.000-0500",
+    "duedate": "2026-09-13",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1225",
+   "fields": {
+    "summary": "Advisor account search slower than SLA",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-21T09:02:00.000-0500",
+    "resolutiondate": "2026-10-11T09:02:00.000-0500",
+    "duedate": "2026-10-23",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1226",
+   "fields": {
+    "summary": "Mainframe extract decommission blocked by downstream consumer",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-02T10:54:00.000-0500",
+    "resolutiondate": "2026-11-01T10:54:00.000-0500",
+    "duedate": "2026-12-04",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": "IMO-0101"
+   }
+  },
+  {
+   "key": "TAMI-1227",
+   "fields": {
+    "summary": "Dividend reinvestment share rounding differs from legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-23T10:08:00.000-0500",
+    "resolutiondate": "2026-10-08T10:08:00.000-0500",
+    "duedate": "2026-10-25",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0091"
+   }
+  },
+  {
+   "key": "TAMI-1228",
+   "fields": {
+    "summary": "Accessibility defects on firm self-service pages",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-05T11:57:00.000-0500",
+    "resolutiondate": "2026-07-25T11:57:00.000-0500",
+    "duedate": "2026-08-03",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0049"
+   }
+  },
+  {
+   "key": "TAMI-1229",
+   "fields": {
+    "summary": "Intermediary portal shows stale transaction status",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-01T10:25:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-18",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0100"
+   }
+  },
+  {
+   "key": "TAMI-1230",
+   "fields": {
+    "summary": "Capital gains distribution file late to intermediaries",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [
+     "steerco"
+    ],
+    "created": "2026-05-28T11:51:00.000-0500",
+    "resolutiondate": "2026-06-02T11:51:00.000-0500",
+    "duedate": "2026-06-12",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0020"
+   }
+  },
+  {
+   "key": "TAMI-1231",
+   "fields": {
+    "summary": "Intermediary trade file arrives without CUSIP on some records",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-09-03T09:48:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-07",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0103"
+   }
+  },
+  {
+   "key": "TAMI-1232",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": null,
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-10-07T17:50:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-07",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0123"
+   }
+  },
+  {
+   "key": "TAMI-1233",
+   "fields": {
+    "summary": "Nightly TA batch still depends on legacy data center job",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-05-26T16:33:00.000-0500",
+    "resolutiondate": "2026-06-29T16:33:00.000-0500",
+    "duedate": "2026-07-25",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1234",
+   "fields": {
+    "summary": "Accessibility defects on firm self-service pages",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-06-22T08:05:00.000-0500",
+    "resolutiondate": "2026-10-15T08:05:00.000-0500",
+    "duedate": "2026-09-20",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1235",
+   "fields": {
+    "summary": "Capital gains distribution file late to intermediaries",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [
+     "regulatory",
+     "steerco"
+    ],
+    "created": "2026-10-25T10:54:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-11-10",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0137"
+   }
+  },
+  {
+   "key": "TAMI-1237",
+   "fields": {
+    "summary": "Statement PDF missing fund footnotes",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-23T14:40:00.000-0500",
+    "resolutiondate": "2026-09-09T14:40:00.000-0500",
+    "duedate": "2026-08-26",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0065"
+   }
+  },
+  {
+   "key": "TAMI-1238",
+   "fields": {
+    "summary": "Failover test not completed for validation service",
+    "issuetype": {
+     "name": "Action Item"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Grace Liu"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-27T11:18:00.000-0500",
+    "resolutiondate": "2026-08-02T11:18:00.000-0500",
+    "duedate": "2026-08-31",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0041"
+   }
+  },
+  {
+   "key": "TAMI-1240",
+   "fields": {
+    "summary": "Networking level not set on new intermediary accounts",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-08T12:25:00.000-0500",
+    "resolutiondate": "2026-09-01T12:25:00.000-0500",
+    "duedate": "2026-10-04",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1241",
+   "fields": {
+    "summary": "Legacy file transfer server still in use by two firms",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-10-22T13:17:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2027-01-19",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1242",
+   "fields": {
+    "summary": "Rep code mapping mismatch after conversion",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-26T17:14:00.000-0500",
+    "resolutiondate": "2026-10-15T17:14:00.000-0500",
+    "duedate": "2026-11-24",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1243",
+   "fields": {
+    "summary": "Broker-dealer branch hierarchy not migrated",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Nia Brooks"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-01T11:58:00.000-0500",
+    "resolutiondate": "2026-08-08T11:58:00.000-0500",
+    "duedate": "2026-07-31",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1244",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-06T11:18:00.000-0500",
+    "resolutiondate": "2026-10-25T11:18:00.000-0500",
+    "duedate": "2026-11-09",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1245",
+   "fields": {
+    "summary": "Networking level not set on new intermediary accounts",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-07-29T16:03:00.000-0500",
+    "resolutiondate": "2026-09-07T16:03:00.000-0500",
+    "duedate": "2026-08-28",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0072"
+   }
+  },
+  {
+   "key": "TAMI-1246",
+   "fields": {
+    "summary": "Fund/SERV trade rejects not routed to exception queue",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-07-10T15:59:00.000-0500",
+    "resolutiondate": "2026-08-03T15:59:00.000-0500",
+    "duedate": "2026-08-13",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0056"
+   }
+  },
+  {
+   "key": "TAMI-1247",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-11T16:57:00.000-0500",
+    "resolutiondate": "2026-11-02T16:57:00.000-0500",
+    "duedate": "2026-12-10",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1248",
+   "fields": {
+    "summary": "Fund/SERV trade rejects not routed to exception queue",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-19T10:44:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2027-01-15",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1249",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory",
+     "steerco"
+    ],
+    "created": "2026-05-10T10:00:00.000-0500",
+    "resolutiondate": "2026-06-28T10:00:00.000-0500",
+    "duedate": "2026-07-03",
+    "customfield_10050": {
+     "value": "Critical"
+    },
+    "customfield_10051": "IMO-0005"
+   }
+  },
+  {
+   "key": "TAMI-1250",
+   "fields": {
+    "summary": "Rep code mapping mismatch after conversion",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Firm Administration"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-22T08:36:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-20",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0135"
+   }
+  },
+  {
+   "key": "TAMI-1251",
+   "fields": {
+    "summary": "Fund/SERV trade rejects not routed to exception queue",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [],
+    "created": "2026-08-18T10:58:00.000-0500",
+    "resolutiondate": "2026-11-05T10:58:00.000-0500",
+    "duedate": "2026-10-03",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0089"
+   }
+  },
+  {
+   "key": "TAMI-1252",
+   "fields": {
+    "summary": "Failover test not completed for validation service",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [],
+    "created": "2026-11-02T14:06:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-03",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0142"
+   }
+  },
+  {
+   "key": "TAMI-1253",
+   "fields": {
+    "summary": "Distribution rate file not validated before release",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Dana Kim"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-06-02T15:15:00.000-0500",
+    "resolutiondate": "2026-09-10T15:15:00.000-0500",
+    "duedate": "2026-08-03",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1254",
+   "fields": {
+    "summary": "Cloud network latency on trade validation calls",
+    "issuetype": {
+     "name": "Risk"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Hosting & Data Center Exit"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-08-17T13:33:00.000-0500",
+    "resolutiondate": "2026-09-17T13:33:00.000-0500",
+    "duedate": "2026-10-13",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0088"
+   }
+  },
+  {
+   "key": "TAMI-1255",
+   "fields": {
+    "summary": "Capital gains distribution file late to intermediaries",
+    "issuetype": {
+     "name": "Action Item"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Tom Alvarez"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-16T10:29:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-13",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1256",
+   "fields": {
+    "summary": "Dividend reinvestment share rounding differs from legacy",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": null,
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-20T15:49:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2026-12-19",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1257",
+   "fields": {
+    "summary": "Exchange (switch) orders split incorrectly across funds",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": null,
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-07-28T17:34:00.000-0500",
+    "resolutiondate": "2026-10-14T17:34:00.000-0500",
+    "duedate": "2026-09-25",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": "IMO-0071"
+   }
+  },
+  {
+   "key": "TAMI-1258",
+   "fields": {
+    "summary": "Record-date eligibility logic gap for pending transfers",
+    "issuetype": {
+     "name": "Defect"
+    },
+    "status": {
+     "name": "In Remediation",
+     "statusCategory": {
+      "key": "indeterminate"
+     }
+    },
+    "priority": {
+     "name": "Low"
+    },
+    "assignee": {
+     "displayName": "Marcus Hill"
+    },
+    "components": [
+     {
+      "name": "Distributions"
+     }
+    ],
+    "labels": [],
+    "created": "2026-10-15T11:40:00.000-0500",
+    "resolutiondate": null,
+    "duedate": "2027-01-15",
+    "customfield_10050": {
+     "value": "Low"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1259",
+   "fields": {
+    "summary": "Trade confirmation wording differs from legacy",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "assignee": {
+     "displayName": "Owen Park"
+    },
+    "components": [
+     {
+      "name": "External Client Experience"
+     }
+    ],
+    "labels": [],
+    "created": "2026-09-24T12:01:00.000-0500",
+    "resolutiondate": "2026-11-04T12:01:00.000-0500",
+    "duedate": "2026-11-23",
+    "customfield_10050": {
+     "value": "Medium"
+    },
+    "customfield_10051": null
+   }
+  },
+  {
+   "key": "TAMI-1260",
+   "fields": {
+    "summary": "Cutoff-time validation fails for late-day intermediary trades",
+    "issuetype": {
+     "name": "Issue"
+    },
+    "status": {
+     "name": "Closed",
+     "statusCategory": {
+      "key": "done"
+     }
+    },
+    "priority": {
+     "name": "High"
+    },
+    "assignee": {
+     "displayName": "Priya Nair"
+    },
+    "components": [
+     {
+      "name": "Transaction Sourcing & Validation"
+     }
+    ],
+    "labels": [
+     "regulatory"
+    ],
+    "created": "2026-06-23T10:30:00.000-0500",
+    "resolutiondate": "2026-07-29T10:30:00.000-0500",
+    "duedate": "2026-07-31",
+    "customfield_10050": {
+     "value": "High"
+    },
+    "customfield_10051": "IMO-0037"
+   }
+  }
+ ]
+}

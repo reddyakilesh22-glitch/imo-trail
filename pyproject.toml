@@ -1,0 +1,9 @@
+[project]
+name = "reportops"
+version = "0.1.0"
+description = "Weekly Issue Management Office reporting automation: Jira + Excel -> validated, reconciled, explained report"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+filterwarnings = ["ignore:The 'generic' unit for NumPy timedelta is deprecated:DeprecationWarning"]

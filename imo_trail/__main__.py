@@ -1,9 +1,9 @@
 """Command line entry point.
 
-    python -m reportops run --asof 2026-11-13            # build the weekly report
-    python -m reportops run --asof 2026-11-13 --ai       # + Claude-drafted summary (guarded)
-    python -m reportops explain --asof 2026-11-13 overdue  # why did a KPI move?
-    python -m reportops fetch-jira --asof 2026-11-13     # pull live from Jira Cloud (needs env vars)
+    python -m imo_trail run --asof 2026-11-13            # build the weekly report
+    python -m imo_trail run --asof 2026-11-13 --ai       # + Claude-drafted summary (guarded)
+    python -m imo_trail explain --asof 2026-11-13 overdue  # why did a KPI move?
+    python -m imo_trail fetch-jira --asof 2026-11-13     # pull live from Jira Cloud (needs env vars)
 """
 from __future__ import annotations
 
@@ -31,7 +31,7 @@ def _print_run(r: pipeline.RunResult) -> None:
 
 
 def main(argv: list[str] | None = None) -> int:
-    ap = argparse.ArgumentParser(prog="reportops", description="IMO weekly issue reporting")
+    ap = argparse.ArgumentParser(prog="imo_trail", description="IMO weekly issue reporting")
     sub = ap.add_subparsers(dest="cmd", required=True)
     p_run = sub.add_parser("run", help="build the report")
     p_run.add_argument("--asof", required=True, type=date.fromisoformat)

@@ -5,7 +5,7 @@ import json
 
 import pytest
 
-from reportops import config, pipeline
+from imo_trail import config, pipeline
 
 PRIOR, CURRENT = date(2026, 11, 6), date(2026, 11, 13)
 

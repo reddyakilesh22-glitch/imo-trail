@@ -18,7 +18,7 @@ import pandas as pd
 
 from . import config, detective, metrics, narrative, quality, reconcile, sources
 
-log = logging.getLogger("reportops")
+log = logging.getLogger("imo_trail")
 
 
 @dataclass

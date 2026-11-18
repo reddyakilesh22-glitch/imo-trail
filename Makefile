@@ -8,8 +8,8 @@ data:             ## regenerate synthetic sample data
 
 demo:             ## run last week, then this week (so the WoW explainer has a baseline)
 	rm -rf snapshots output
-	$(PY) -m reportops run --asof 2026-11-06
-	$(PY) -m reportops run --asof 2026-11-13
+	$(PY) -m imo_trail run --asof 2026-11-06
+	$(PY) -m imo_trail run --asof 2026-11-13
 
 test:
 	$(PY) -m pytest -q

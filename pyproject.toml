@@ -1,5 +1,5 @@
 [project]
-name = "reportops"
+name = "imo-trail"
 version = "0.1.0"
 description = "Weekly Issue Management Office reporting automation: Jira + Excel -> validated, reconciled, explained report"
 requires-python = ">=3.10"

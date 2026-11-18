@@ -3,9 +3,9 @@
 ## Weekly run (Friday, before Monday SteerCo prep)
 
 1. Drop the inputs into `data/<as-of date>/`:
-   - `jira_issues.json`: from `python -m reportops fetch-jira --asof <date>`, or a Jira export
+   - `jira_issues.json`: from `python -m imo_trail fetch-jira --asof <date>`, or a Jira export
    - `issue_register.xlsx`: the IMO register (the title rows above the header are fine)
-2. `python -m reportops run --asof <date>`
+2. `python -m imo_trail run --asof <date>`
 3. Read the console status line:
    - **PUBLISHED**: send the HTML/Excel from `output/<date>/`.
    - **REVIEW REQUIRED**: open the *Data Quality* and *Reconciliation* tabs and resolve
@@ -26,15 +26,15 @@
 
 *"Overdue in the report doesn't match what I see in Jira."*
 
-1. `python -m reportops explain --asof <date> overdue` lists every issue that entered or left the metric since last week, and why.
-2. Check the definition in `reportops/metrics.py` (`Metric("overdue", ...)`). Jira's due date is the source of truth, not the register's Target Date.
+1. `python -m imo_trail explain --asof <date> overdue` lists every issue that entered or left the metric since last week, and why.
+2. Check the definition in `imo_trail/metrics.py` (`Metric("overdue", ...)`). Jira's due date is the source of truth, not the register's Target Date.
 3. Check *Data Quality* for `jira_high_sev_without_target`. An issue with no due date can't be overdue.
 4. Compare `run_manifest.json` input hashes and row counts with what you expect. A stale export is the most common cause.
 
 ## Changing a business rule
 
-- SLA days, statuses, workstreams, Jira custom-field IDs: `reportops/config.py`
-- A KPI definition: `reportops/metrics.py`. Add a test in `tests/` that pins the new behaviour.
+- SLA days, statuses, workstreams, Jira custom-field IDs: `imo_trail/config.py`
+- A KPI definition: `imo_trail/metrics.py`. Add a test in `tests/` that pins the new behaviour.
 - Open a PR. CI runs the tests and a full demo run.
 
 ## Common input problems (all caught automatically)

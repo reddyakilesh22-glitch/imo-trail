@@ -8,3 +8,7 @@ snapshots/
 
 # personal interview notes - keep local
 interview/
+
+# OS / Excel junk
+.DS_Store
+~$*

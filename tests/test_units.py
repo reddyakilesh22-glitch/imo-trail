@@ -4,8 +4,8 @@ import pandas as pd
 import pytest
 from openpyxl import Workbook
 
-from reportops import detective, narrative, quality, reconcile, sources
-from reportops.metrics import METRICS_BY_ID
+from imo_trail import detective, narrative, quality, reconcile, sources
+from imo_trail.metrics import METRICS_BY_ID
 
 ASOF = pd.Timestamp("2026-11-13")
 
